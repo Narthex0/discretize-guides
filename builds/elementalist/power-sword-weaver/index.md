@@ -22,7 +22,7 @@ The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one o
 
 It has quick burst damage and doesn't rely as much on pre-casting as [Power Tempest](/builds/elementalist/power-tempest). Since you don't have long casting times and the rotation loops fluently, it is fun to play as long as there are no Instabilities that discourage melee interactions.
 
-Aside from <Condition name="vulnerability"/>, an additional crowd control skill with <Skill name="Updraft"/> and high DPS the Power Sword Weaver build unfortunately doesn't provide much utilities. Additionally, the missing Arcane traits such as <Trait name="Final Shielding"/> make you inherently squishy.
+Aside from <Condition name="vulnerability"/>, an additional crowd control skill with <Skill name="Updraft"/> and high DPS, the <Specialization name="Weaver" text="Power Sword Weaver"/> unfortunately doesn't provide much utilities. Additionally, the missing Arcane traits such as <Trait name="Final Shielding"/> make you inherently squishy.
 
 The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
